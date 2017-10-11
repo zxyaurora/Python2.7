@@ -3,6 +3,7 @@
 
 """
 soving a quadratic equation
+解一元二次方程
 """
 
 from __future__ import division
